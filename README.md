@@ -1,1 +1,1 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hi%2C+I'm+Jikael;I'm+an+ML+engineer+%40+Mira+AI;I'm+doing+a+master's+in+AI+for+healthcare+%40+UofT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=800&height=150&lines=Hi%2C+I'm+Jikael;I'm+an+ML+engineer+%40+Mira+AI;I'm+doing+a+master's+in+AI+for+healthcare+%40+UofT" alt="Typing SVG" /></a>
